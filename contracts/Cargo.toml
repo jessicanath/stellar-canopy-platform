@@ -1,0 +1,17 @@
+[workspace]
+resolver = "2"
+members = [
+    "contracts/tree_registry",
+    "contracts/escrow",
+    "contracts/planter_registry",
+    "contracts/carbon_credits",
+    "contracts/governance",
+]
+
+[profile.release]
+opt-level = "z"
+overflow-checks = true
+debug = false
+panic = "abort"
+lto = true
+codegen-units = 1
