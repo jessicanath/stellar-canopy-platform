@@ -1,6 +1,6 @@
 # 🌱 Stellar Canopy — Plant Trees. Track Impact. Offset Carbon.
 
-[![CI Build](https://github.com/stellar-canopy/canopy/actions/workflows/ci.yml/badge.svg)](https://github.com/stellar-canopy/canopy/actions/workflows/ci.yml)
+[![CI Build](https://github.com/jessicanath/stellar-canopy-platform/actions/workflows/ci.yml/badge.svg)](https://github.com/jessicanath/stellar-canopy-platform/actions/workflows/ci.yml)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![Stellar](https://img.shields.io/badge/Stellar-Soroban-purple.svg)](https://stellar.org)
 
