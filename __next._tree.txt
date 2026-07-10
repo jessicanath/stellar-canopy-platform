@@ -1,2 +1,2 @@
-:HL["/_next/static/css/46156bf690c5273d.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"PKOzOjzmiGbdPF8_xkn5Y"}
+:HL["/stellar-canopy-platform/_next/static/css/46156bf690c5273d.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"d0evMdeYGGpeNehkMamgM"}
