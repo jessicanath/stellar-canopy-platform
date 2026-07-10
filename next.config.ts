@@ -9,6 +9,7 @@ const withPWA = withPWAInit({
 
 const nextConfig: NextConfig = {
   output: "export",
+  basePath: "/stellar-canopy-platform",
   images: {
     unoptimized: true,
   },
